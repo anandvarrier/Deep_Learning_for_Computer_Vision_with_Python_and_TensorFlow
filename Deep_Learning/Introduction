@@ -1,0 +1,9 @@
+Inventors have long dreamed of creating machines that think. This desire dates back to atleast the time of ancient Greece. 
+
+Today, Artificial Intelligence is a thriving field with many practical usages and active research topics. They can automate routine labour, understand speech and text, etc
+
+In earlier days of AI, the field rapidly tackled and solved problems that are intellectually difficult for humans but relatively straight forward for computers. Problems which can be described by list if formulas and mathematical rules.
+
+However, the true challenge to AI proved to be solving tasks which are easy to humans but hard for people to describe-problems that we solve intutively, like recognizing faces, languages and images, etc.
+
+The approach in which computers learn from experience and understand the world in terms of a hierarchy of concepts without the need of human opearators to formally specify all of the knowledge that the computer needs is known as **Deep Learning**.  The hierarchy of concepts allows the computer to learn complicated concepts by building them out of simpler ones. If we draw a graph showing how these concepts are built on top of each other, the graph is deep, with many layers. 
