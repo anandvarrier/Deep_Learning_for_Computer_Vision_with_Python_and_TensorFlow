@@ -1,9 +1,27 @@
 Inventors have long dreamed of creating machines that think. This desire dates back to atleast the time of ancient Greece. 
 
-Today, Artificial Intelligence is a thriving field with many practical usages and active research topics. They can automate routine labour, understand speech and text, etc
+Today, Artificial Intelligence is a thriving field with many practical usages and active research topics. They can automate 
+routine labour, understand speech and text, etc
 
-In earlier days of AI, the field rapidly tackled and solved problems that are intellectually difficult for humans but relatively straight forward for computers. Problems which can be described by list if formulas and mathematical rules.
+In earlier days of AI, the field rapidly tackled and solved problems that are intellectually difficult for humans but relatively 
+straight forward for computers. Problems which can be described by list if formulas and mathematical rules.
 
-However, the true challenge to AI proved to be solving tasks which are easy to humans but hard for people to describe-problems that we solve intutively, like recognizing faces, languages and images, etc.
+However, the true challenge to AI proved to be solving tasks which are easy to humans but hard for 
+people to describe-problems that we solve intutively, like recognizing faces, languages and images, etc.
 
-The approach in which computers learn from experience and understand the world in terms of a hierarchy of concepts without the need of human opearators to formally specify all of the knowledge that the computer needs is known as **Deep Learning**.  The hierarchy of concepts allows the computer to learn complicated concepts by building them out of simpler ones. If we draw a graph showing how these concepts are built on top of each other, the graph is deep, with many layers. 
+The approach in which computers learn from experience and understand the world in terms of a hierarchy of concepts without 
+the need of human opearators to formally specify all of the knowledge that the computer needs is known as *Deep Learning*.  
+The hierarchy of concepts allows the computer to learn complicated concepts by building them out of simpler ones. 
+If we draw a graph showing how these concepts are built on top of each other, the graph is deep, with many layers. 
+
+Earlier AI was based on *Knowledge Base*. It means the data to AI was hardcoded by humans and based on this data the AI algos.
+can come to inferences by looking at the patterns present in this data. This is known as the
+knowledge base approach to artificial intelligence. None of these projects has led
+to a major success. One of the most famous such projects is Cyc. Cyc is an inference engine and a database of statements in a language
+called CycL. These statements are entered by a staff of human supervisors. It is an
+unwieldy process.
+
+The difficulties faced by systems relying on hard-coded knowledge suggest
+that AI systems need the ability to acquire their own knowledge, by extracting
+patterns from raw data. This capability is known as *Machine learning*.
+
